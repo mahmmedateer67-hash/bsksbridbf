@@ -2,3 +2,4 @@ httpx
 faker
 requests_toolbelt
 telebot
+aiohttp
