@@ -1,15 +1,4 @@
-asyncio
-base64
-random
-re
-time
-dataclasses
-typing
-json
 httpx
 faker
 requests_toolbelt
 telebot
-types
-telebot.async_telebot
-telebot.util
